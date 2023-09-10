@@ -1,4 +1,4 @@
-[{"id":4,"alpha2":"af","alpha3":"afg","name":"أفغانستان"},
+{"countries": [{"id":4,"alpha2":"af","alpha3":"afg","name":"أفغانستان"},
 {"id":8,"alpha2":"al","alpha3":"alb","name":"ألبانيا"},
 {"id":12,"alpha2":"dz","alpha3":"dza","name":"الجزائر"},
 {"id":20,"alpha2":"ad","alpha3":"and","name":"أندورا"},
@@ -190,4 +190,4 @@
 {"id":704,"alpha2":"vn","alpha3":"vnm","name":"فيتنام"},
 {"id":887,"alpha2":"ye","alpha3":"yem","name":"اليمن"},
 {"id":894,"alpha2":"zm","alpha3":"zmb","name":"زامبيا"},
-{"id":716,"alpha2":"zw","alpha3":"zwe","name":"زيمبابوي"}]
+{"id":716,"alpha2":"zw","alpha3":"zwe","name":"زيمبابوي"}]}
